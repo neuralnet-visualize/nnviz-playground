@@ -1,3 +1,3 @@
 # Interactive Playground
 
-App link: [https://nnviz-playground.herokuapp.com/](https://nnviz-playground.herokuapp.com/)
+App is live at: [https://nnviz-playground.herokuapp.com/](https://nnviz-playground.herokuapp.com/)
